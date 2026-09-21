@@ -20,9 +20,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ong-si-hui-ariel-5714b9156/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-f8c8dc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-e8a0bf?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=f8c8dc" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=itzsihui&label=Profile%20Views&color=f8c8dc&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
