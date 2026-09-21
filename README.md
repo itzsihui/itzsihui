@@ -11,7 +11,7 @@
 <!-- Hero -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&center=true&vCenter=true&width=900&height=70&color=E8A0BF&duration=3200&pause=900&lines=Hey+there%2C+I+am+Ong+Si+Hui+(Ariel)+%F0%9F%91%8B;Developer+%26+Builder;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Creative+Builds;Always+coding+with+coffee+nearby+%E2%98%95" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&center=true&vCenter=true&width=900&height=70&color=E8A0BF&duration=3200&pause=900&lines=Hey+there%2C+I+am+Ong+Si+Hui+(Ariel)+%F0%9F%91%8B;Developer+%26+Builder;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Blockchain;Always+coding+with+coffee+nearby+%E2%98%95" alt="Typing intro" />
 </h1>
 
 <p align="center">
@@ -35,9 +35,9 @@
 ## 🌷 About Me
 
 * 👩‍💻 Love building things — from cozy side projects to shipping under hackathon pressure
-* 🧠 Curious about **full-stack development**, **AI**, and turning ideas into working products
+* 🧠 Curious about **full-stack**, **AI**, and **blockchain** — and turning ideas into working products
 * ☕ Always coding with a warm drink nearby and a long to-do list
-* 🌱 Currently leveling up and exploring new tools, stacks, and creative builds
+* 🌱 Currently leveling up and actively building across full stack, AI, and blockchain
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&center=true&vCenter=true&width=850&height=45&color=E8C4A8&duration=3000&pause=800&lines=ideas+%E2%86%92+prototypes+%E2%86%92+shipped+products;cozy+builds+%2B+hackathon+energy;learning+by+building%2C+one+commit+at+a+time" alt="Builder typing" />
