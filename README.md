@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,13,14&section=header&animation=fadeIn" alt="waving header" />
 </p>
 
-![Profile Banner](banner.gif)
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Profile Banner" />
+</p>
 
 <!-- Hero -->
 
