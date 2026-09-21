@@ -19,6 +19,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ong-si-hui-ariel-5714b9156/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-f8c8dc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=itzsihui&label=Profile%20Views&color=f8c8dc&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -59,19 +62,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,git,github&perline=10" alt="Tech stack" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itzsihui&show_icons=true&theme=buefy&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsihui&layout=compact&theme=buefy&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsihui&theme=buefy&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
