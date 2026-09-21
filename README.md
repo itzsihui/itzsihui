@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,13,14&section=header&animation=fadeIn" alt="waving header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F8C8DC,100:F5E6D3&section=header&animation=fadeIn" alt="waving header" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <!-- Hero -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&center=true&vCenter=true&width=900&height=70&color=C4A484&duration=3200&pause=900&lines=Hey+there%2C+I+am+Ong+Si+Hui+(Ariel)+%F0%9F%91%8B;Developer+%26+Builder;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Creative+Builds;Always+coding+with+coffee+nearby+%E2%98%95" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=36&center=true&vCenter=true&width=900&height=70&color=E8A0BF&duration=3200&pause=900&lines=Hey+there%2C+I+am+Ong+Si+Hui+(Ariel)+%F0%9F%91%8B;Developer+%26+Builder;Full+Stack+%E2%80%A2+AI+%E2%80%A2+Creative+Builds;Always+coding+with+coffee+nearby+%E2%98%95" alt="Typing intro" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzsihui&label=Profile%20Views&color=c4a484&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=itzsihui&label=Profile%20Views&color=f8c8dc&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 * 🌱 Currently leveling up and exploring new tools, stacks, and creative builds
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&center=true&vCenter=true&width=850&height=45&color=D4A574&duration=3000&pause=800&lines=ideas+%E2%86%92+prototypes+%E2%86%92+shipped+products;cozy+builds+%2B+hackathon+energy;learning+by+building%2C+one+commit+at+a+time" alt="Builder typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&center=true&vCenter=true&width=850&height=45&color=E8C4A8&duration=3000&pause=800&lines=ideas+%E2%86%92+prototypes+%E2%86%92+shipped+products;cozy+builds+%2B+hackathon+energy;learning+by+building%2C+one+commit+at+a+time" alt="Builder typing" />
 </p>
 
 ---
@@ -95,5 +95,5 @@
 <!-- Footer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&customColorList=12,13,14&section=footer&animation=fadeIn" alt="waving footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:F5E6D3,100:F8C8DC&section=footer&animation=fadeIn" alt="waving footer" />
 </p>
