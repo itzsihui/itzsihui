@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/2dea22a9-f610-47d3-aec1-807e6a38db91" width="100%" autoplay loop muted playsinline></video>
+  <img src="banner.gif" width="100%" alt="Profile Banner" />
 </p>
 
 <!-- Hero -->
